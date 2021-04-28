@@ -1,0 +1,15 @@
+#include<iostream>
+using name space std;
+bool checkprime (int n);
+int main(){
+int n,i;
+bool flag=false;
+count<<"enter a positive integer:";
+cin>>n;
+for(i=2;i<=n/2;++i){
+if(check prim (i)){
+if( check prime (n-1)){
+count<<n<<"="<<i<<
+}
+}
+}
